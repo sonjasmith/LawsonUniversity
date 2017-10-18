@@ -1,0 +1,58 @@
+﻿@model LawsonU.Models.Course
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Course</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Course_Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Course_Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Credit_Hours)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Credit_Hours)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Class_Size)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Class_Size)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Passing_Percentage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Passing_Percentage)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
