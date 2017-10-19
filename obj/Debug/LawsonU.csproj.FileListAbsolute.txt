@@ -47,3 +47,6 @@ C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LawsonU\LawsonU\bin\E
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LawsonU\LawsonU\bin\EntityFramework.SqlServer.dll
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LawsonU\LawsonU\bin\EntityFramework.xml
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LawsonU\LawsonU\bin\EntityFramework.SqlServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LawsonU\LawsonU\obj\Debug\LawsonU.Migrations.InitialCreate.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LawsonU\LawsonU\obj\Debug\LawsonU.csproj.GenerateResource.Cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LawsonU\LawsonU\obj\Debug\LawsonU.Migrations.JustMessingAround.resources

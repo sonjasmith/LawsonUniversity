@@ -11,6 +11,7 @@ namespace LawsonU.Models
     public class Course
     {
         [Key]
+        [DisplayName("Course ID")]
         public int ID { get; set; }
         [DisplayName("Course Title")]
         public string Course_Title { get; set; }
